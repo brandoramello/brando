@@ -2,28 +2,28 @@
  { 
     "id": 1,
     "title": "Parasite",
-    "genre": "Thriller"
+    "genre": "Thriller",
     "description": "Capolavoro assoulto ma ho avuto difficoltà a distinguere gli attori perchè sono tutti uguali",
     "imgSrc": "https://www.iodonna.it/wp-content/uploads/2020/01/parasite-torna-al-cinema-febbraio-2020.jpg?v=1381537"
     },
 { 
     "id": 2,
     "title": "Jojo Rabbit",
-    "genre": "Comedy"
+    "genre": "Comedy",
     "description": "Capolavoro assoulto soprattutto perchè sono fan del nazismo e di Adolf",
     "imgSrc": "https://mr.comingsoon.it/imgdb/locandine/big/56867.jpg"
     },
 { 
     "id": 3,
     "title": "1917",
-    "genre": "War"
+    "genre": "War",
     "description": "Capolavoro assoulto ma c'erano troppi attori di serie tv di successo",
     "imgSrc": "https://pad.mymovies.it/filmclub/2019/03/227/locandina.jpg"
     },
 { 
     "id": 4,
     "title": "Joker",
-    "genre": "Drama"
+    "genre": "Drama",
     "description": "Capolavoro assoulto perchè mi sta sul cazzo Robert De Niro",
     "imgSrc": "https://www.warnerbros.it/wp-content/uploads/2018/08/Joker_Digital.jpg"
     }
