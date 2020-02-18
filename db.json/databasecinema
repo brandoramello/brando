@@ -5,7 +5,11 @@
     "genre": "Thriller",
     "description": "Capolavoro assoulto ma ho avuto difficoltà a distinguere gli attori perchè sono tutti uguali",
     "imgSrc": "https://www.iodonna.it/wp-content/uploads/2020/01/parasite-torna-al-cinema-febbraio-2020.jpg?v=1381537",
-    "postidisponibili": 200
+    "postidisponibili" : [
+            "17": 150
+            "20": 200
+            "22": 200
+            ]
     },
 { 
     "id": 2,
@@ -13,7 +17,11 @@
     "genre": "Comedy",
     "description": "Capolavoro assoulto soprattutto perchè sono fan del nazismo e di Adolf",
     "imgSrc": "https://mr.comingsoon.it/imgdb/locandine/big/56867.jpg",
-     "postidisponibili": 200
+      "postidisponibili" : [
+            "17": 120
+            "20": 180
+            "22": 200
+            ]
     },
 { 
     "id": 3,
@@ -21,7 +29,11 @@
     "genre": "War",
     "description": "Capolavoro assoulto ma c'erano troppi attori di serie tv di successo",
     "imgSrc": "https://pad.mymovies.it/filmclub/2019/03/227/locandina.jpg",
-     "postidisponibili": 200
+     "postidisponibili" : [
+            "17": 250
+            "20": 300
+            "22": 300
+            ]
     },
 { 
     "id": 4,
@@ -29,7 +41,11 @@
     "genre": "Drama",
     "description": "Capolavoro assoulto perchè mi sta sul cazzo Robert De Niro",
     "imgSrc": "https://www.warnerbros.it/wp-content/uploads/2018/08/Joker_Digital.jpg",
-     "postidisponibili": 200
+     "postidisponibili" : [
+            "17": 200
+            "20": 200
+            "22": 200
+            ]
     }
  ]
 
