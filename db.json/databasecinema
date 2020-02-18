@@ -5,11 +5,11 @@
     "genre": "Thriller",
     "description": "Capolavoro assoulto ma ho avuto difficoltà a distinguere gli attori perchè sono tutti uguali",
     "imgSrc": "https://www.iodonna.it/wp-content/uploads/2020/01/parasite-torna-al-cinema-febbraio-2020.jpg?v=1381537",
-    "postidisponibili" : [
+    "postidisponibili" : {
             "primaproiezione": "150"
             "secondaproiezione": "200"
             "terzaproiezione": "200"
-            ]
+            }
     },
 { 
     "id": 2,
@@ -17,11 +17,11 @@
     "genre": "Comedy",
     "description": "Capolavoro assoulto soprattutto perchè sono fan del nazismo e di Adolf",
     "imgSrc": "https://mr.comingsoon.it/imgdb/locandine/big/56867.jpg",
-      "postidisponibili" : [
+      "postidisponibili" : {
             "primaproiezione": "120"
             "secondaproiezione": "180"
             "terzaproiezione": "200"
-            ]
+            }
     },
 { 
     "id": 3,
@@ -29,11 +29,11 @@
     "genre": "War",
     "description": "Capolavoro assoulto ma c'erano troppi attori di serie tv di successo",
     "imgSrc": "https://pad.mymovies.it/filmclub/2019/03/227/locandina.jpg",
-     "postidisponibili" : [
+     "postidisponibili" : {
             "primaproiezione": "250"
             "secondaproiezione": "300"
             "terzaproiezione": "300"
-            ]
+            }
     },
 { 
     "id": 4,
@@ -41,11 +41,11 @@
     "genre": "Drama",
     "description": "Capolavoro assoulto perchè mi sta sul cazzo Robert De Niro",
     "imgSrc": "https://www.warnerbros.it/wp-content/uploads/2018/08/Joker_Digital.jpg",
-     "postidisponibili" : [
+     "postidisponibili" : {
             "primaproiezione": "200"
             "secondaproiezione": "200"
             "terzaproiezione": "200"
-            ]
+            }
     }
  ]
 
